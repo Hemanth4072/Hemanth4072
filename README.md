@@ -1,16 +1,16 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">Hi 👋, I'm Hemanth</h1>
+<h1 align="center">Hi 👋, I'm Hemanth Kumar Arigela</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+API+Developer;Building+Scalable+Backend+Applications;Learning+Microservices+%26+System+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+SQL;Building+Reliable+Backend+Systems" />
 </p>
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:hemanthkumararigela99@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail">
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/hemanth-kumar-arigela">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
   </a>
 </p>
@@ -19,37 +19,37 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Entry-level **Java Backend Developer**
-- 🔧 I build backend applications using **Spring Boot & REST APIs**
-- 🧠 Strong interest in **system design and scalable architecture**
-- 📊 Comfortable working with **databases, APIs, and debugging production issues**
-- 🎯 Currently preparing for **Software Developer roles**
+I’m a **Java Backend Developer** currently working as a Software Engineer at **Longbow Technologies**.
+
+I build and maintain backend applications using **Java and Spring Boot**, focusing on clean architecture, API integrations, and reliable production features.  
+I enjoy understanding how systems work internally — not just writing code, but designing structured and maintainable backend logic.
 
 ---
 
-## 🚀 What I Do
+## 💼 Professional Focus
 
-- Develop RESTful APIs using Spring Boot
-- Implement database operations using JPA & Hibernate
-- Debug backend issues and optimize queries
-- Work with JSON, HTTP requests, and Postman testing
-- Write clean, readable, maintainable code
+- Backend application development using **Spring Boot**
+- Designing and integrating **RESTful APIs**
+- Database operations using **JPA, Hibernate & MySQL**
+- Backend performance and query optimization
+- CRM and workflow enhancements
+- Writing clean, readable and maintainable code
 
 ---
 
 ## 🧰 Tech Stack
 
-### 💻 Backend
+### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
 
-### 🗄 Database
+### Database
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-Hibernate-orange?style=for-the-badge)
 
-### 🛠 Tools
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -57,54 +57,31 @@
 
 ---
 
-## 📚 Currently Working On
-- Doctor Appointment System (Spring Boot Project)
-- CRUD APIs with validation and exception handling
-- Database relationships (OneToMany / ManyToOne)
-- Writing production-style controller & service layers
+## 🧠 Currently Learning
 
----
-
-## 🌱 Currently Learning
 - Microservices Architecture
 - Spring Security
 - JWT Authentication
-- Docker Basics
+- Docker
 - Backend System Design
 
 ---
 
-## 🧪 Featured Projects
+## 🏢 Experience
 
-### 🏥 Doctor Appointment System
-Spring Boot backend application for managing patients, doctors, and appointments.
+**Software Engineer — Longbow Technologies (2025–Present)**
+- Developing scalable backend applications using Java & Spring Boot
+- Building REST APIs for healthcare and medical education platforms
+- Working on CRM workflows and backend data optimization
+- Collaborating with cross-functional teams in Agile environment
 
-**Features**
-- User registration & login
-- Appointment booking
-- CRUD operations
-- JPA relationships
-- REST APIs
+**Product Development Engineer — Alwise Automobiles (2023–2024)**
+- Worked on engineering validation and process improvements
+- Supported cross-functional product development coordination
 
-🔗 `Project Link: (Add Later)`
-
----
-
-### 🧾 Employee Management API
-REST API project demonstrating backend CRUD operations.
-
-**Concepts Used**
-- Controller-Service-Repository layers
-- MySQL database
-- Exception handling
-- DTO pattern
-
-🔗 `Project Link: (Add Later)`
-
----
-
-### 🔐 Authentication System (Upcoming)
-Login & registration system using Spring Security and JWT.
+**Automotive Service Advisor — Kia India (2019–2020)**
+- Digitized service workflow tracking
+- Improved service communication and operational efficiency
 
 ---
 
@@ -123,21 +100,17 @@ Login & registration system using Spring Security and JWT.
 
 ## 📫 Connect With Me
 
-- 📧 Email: yourmail@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
+📧 Email: hemanthkumararigela99@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/hemanth-kumar-arigela
 
 ---
 
-## 🧠 Developer Mindset
+## 🧭 Professional Approach
 
-> “I don’t just learn frameworks.  
-> I learn how systems work, break, and scale.”
-
----
-
-## 🎯 Career Goal
-I am actively looking for an opportunity as a **Java Backend / Spring Boot Developer** where I can contribute to real-world applications and grow into a strong software engineer.
+> I focus on understanding systems, not just syntax —  
+> writing backend code that is predictable, maintainable, and production-ready.
 
 ---
 
-⭐ *If you like my projects, consider starring the repositories!*
+## 🎯 Career Direction
+I am continuing to grow as a backend engineer, strengthening my knowledge in **scalable architecture, security, and distributed systems**, with the goal of becoming a strong software engineer who can design reliable production systems.
