@@ -1,116 +1,156 @@
-<!-- ================= HEADER ================= -->
-
-<h1 align="center">Hi 👋, I'm Hemanth Kumar Arigela</h1>
+<h1 align="center">Hemanth Kumar Arigela</h1>
+<h3 align="center">Software Engineer | Java Backend Developer | Spring Boot | REST APIs | SQL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+SQL;Building+Reliable+Backend+Systems" />
+Designing reliable backend systems and turning real workflows into production-ready software.
 </p>
 
 <p align="center">
-  <a href="mailto:hemanthkumararigela99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail">
-  </a>
-  <a href="https://linkedin.com/in/hemanth-kumar-arigela">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
-  </a>
+  <a href="mailto:hemanthkumararigela99@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/hemanth-kumar-arigela/">LinkedIn</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I’m a **Java Backend Developer** currently working as a Software Engineer at **Longbow Technologies**.
+I am a backend-focused software engineer currently working at **Longbow Technologies**, contributing to healthcare and medical-education platforms such as **DocTutorials** and **WhiteCoats**.
 
-I build and maintain backend applications using **Java and Spring Boot**, focusing on clean architecture, API integrations, and reliable production features.  
-I enjoy understanding how systems work internally — not just writing code, but designing structured and maintainable backend logic.
+My work typically starts with understanding a business workflow and ends only when the feature is stable in production.
 
----
+I mainly handle:
+- REST API development
+- debugging production issues
+- database behavior
+- workflow implementation
+- backend performance improvements
 
-## 💼 Professional Focus
-
-- Backend application development using **Spring Boot**
-- Designing and integrating **RESTful APIs**
-- Database operations using **JPA, Hibernate & MySQL**
-- Backend performance and query optimization
-- CRM and workflow enhancements
-- Writing clean, readable and maintainable code
+> Good software is not the one that works once.  
+> Good software is the one other engineers can safely modify.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-Hibernate-orange?style=for-the-badge)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+| Category | Technologies |
+|--------|--------|
+| Languages | Java, SQL |
+| Backend | Spring Boot, Spring MVC, REST APIs |
+| Database | MySQL, JPA/Hibernate |
+| Testing | Postman, API Validation |
+| Tools | Git, GitHub, IntelliJ IDEA, Maven |
+| Concepts | OOP, MVC Architecture, Layered Architecture |
+| Workflow | Agile, Jira |
 
 ---
 
-## 🧠 Currently Learning
+## Featured Project
 
-- Microservices Architecture
-- Spring Security
-- JWT Authentication
-- Docker
-- Backend System Design
+# Doctor Appointment & Prescription Management System
+
+A backend system designed to manage clinical appointment workflows between patients, doctors, and admin teams.
+
+### Problem
+Manual appointment handling causes:
+- schedule conflicts
+- missed prescriptions
+- inefficient tracking
+
+### Solution
+Built a structured backend system managing appointment lifecycle, slot allocation, and prescription handling through REST APIs.
+
+### Core Features
+- Patient appointment booking
+- Doctor schedule management
+- Slot availability & blocking
+- Appointment status tracking
+- Prescription upload & retrieval
+- Role-based access (Admin / Doctor / Patient)
+- Appointment filtering (date / doctor / status)
+
+### Architecture
+Controller → Service → Repository → Database
+
+### Slot Status
+- OPEN
+- BOOKED
+- BLOCKED
+- CANCELLED
+
+### Challenges Solved
+
+| Challenge | Solution |
+|--------|--------|
+| Duplicate bookings | Slot validation logic |
+| Data inconsistency | Transactional updates |
+| Workflow complexity | Enum state transitions |
+| Large data listing | Filtered query APIs |
 
 ---
 
-## 🏢 Experience
+## System Knowledge
 
-**Software Engineer — Longbow Technologies (2025–Present)**
-- Developing scalable backend applications using Java & Spring Boot
-- Building REST APIs for healthcare and medical education platforms
-- Working on CRM workflows and backend data optimization
-- Collaborating with cross-functional teams in Agile environment
-
-**Product Development Engineer — Alwise Automobiles (2023–2024)**
-- Worked on engineering validation and process improvements
-- Supported cross-functional product development coordination
-
-**Automotive Service Advisor — Kia India (2019–2020)**
-- Digitized service workflow tracking
-- Improved service communication and operational efficiency
+- REST API standards
+- DTO design
+- Database relationships
+- Exception handling
+- Input validation
+- Pagination & filtering
+- Role-based workflows
+- Logging & debugging
 
 ---
 
-## 📊 GitHub Stats
+## Engineering Practices
+
+- Write readable code before clever code
+- Validate all external input
+- Keep business logic out of controllers
+- Prefer simple solutions over complex abstractions
+- Design APIs for future developers
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hemanth4072&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Hemanth4072&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hemanthkumararigela&show_icons=true"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthkumararigela"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkumararigela&layout=compact"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth4072&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
+---
+
+## Currently Improving
+
+- Advanced Spring Boot
+- Query optimization
+- Microservice patterns
+- System design fundamentals
+- Clean architecture
 
 ---
 
-## 📫 Connect With Me
+## Professional Mindset
 
-📧 Email: hemanthkumararigela99@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/hemanth-kumar-arigela
+I consider software engineering a decision-making role, not a coding role.
+
+I bring:
+- feature ownership
+- debugging patience
+- structured thinking
+- clear communication
+- reliability under deadlines
 
 ---
 
-## 🧭 Professional Approach
+## Contact
 
-> I focus on understanding systems, not just syntax —  
-> writing backend code that is predictable, maintainable, and production-ready.
+📧 hemanthkumararigela99@gmail.com  
+💼 https://www.linkedin.com/in/hemanth-kumar-arigela/
 
 ---
 
-## 🎯 Career Direction
-I am continuing to grow as a backend engineer, strengthening my knowledge in **scalable architecture, security, and distributed systems**, with the goal of becoming a strong software engineer who can design reliable production systems.
+⭐ Always open to backend opportunities and meaningful engineering discussions.
