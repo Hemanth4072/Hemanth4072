@@ -1,156 +1,109 @@
-<h1 align="center">Hemanth Kumar Arigela</h1>
-<h3 align="center">Software Engineer | Java Backend Developer | Spring Boot | REST APIs | SQL</h3>
-
+<!-- Animated Header -->
 <p align="center">
-Designing reliable backend systems and turning real workflows into production-ready software.
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=700&lines=Hemanth+Kumar+Arigela;Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+REST+APIs;Building+Reliable+Backend+Systems" />
 </p>
 
+<h3 align="center">Backend Software Engineer • Java • Spring Boot • REST APIs • SQL</h3>
+
 <p align="center">
-  <a href="mailto:hemanthkumararigela99@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/hemanth-kumar-arigela/">LinkedIn</a>
+  <a href="mailto:hemanthkumararigela99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hemanth-kumar-arigela/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Hemanth4072&style=for-the-badge&color=2563EB"/>
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
+I am a backend-focused software engineer at **Longbow Technologies**, building healthcare and medical education platforms.
 
-I am a backend-focused software engineer currently working at **Longbow Technologies**, contributing to healthcare and medical-education platforms such as **DocTutorials** and **WhiteCoats**.
+I specialize in turning real-world workflows into stable backend systems.
 
-My work typically starts with understanding a business workflow and ends only when the feature is stable in production.
-
-I mainly handle:
-- REST API development
-- debugging production issues
+I work with:
+- API integrations
+- production debugging
 - database behavior
-- workflow implementation
-- backend performance improvements
+- workflow lifecycle management
 
-> Good software is not the one that works once.  
-> Good software is the one other engineers can safely modify.
+> I don’t just build endpoints. I build backend behavior.
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
-| Category | Technologies |
-|--------|--------|
-| Languages | Java, SQL |
-| Backend | Spring Boot, Spring MVC, REST APIs |
-| Database | MySQL, JPA/Hibernate |
-| Testing | Postman, API Validation |
-| Tools | Git, GitHub, IntelliJ IDEA, Maven |
-| Concepts | OOP, MVC Architecture, Layered Architecture |
-| Workflow | Agile, Jira |
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,sql" />
+</p>
+
+### Backend & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven" />
+</p>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,idea" />
+</p>
 
 ---
 
-## Featured Project
+## 🚀 Featured Project — ClinicFlow
+**ClinicFlow** is a clinic workflow & appointment management backend system.
 
-# Doctor Appointment & Prescription Management System
-
-A backend system designed to manage clinical appointment workflows between patients, doctors, and admin teams.
-
-### Problem
-Manual appointment handling causes:
-- schedule conflicts
-- missed prescriptions
-- inefficient tracking
-
-### Solution
-Built a structured backend system managing appointment lifecycle, slot allocation, and prescription handling through REST APIs.
-
-### Core Features
-- Patient appointment booking
-- Doctor schedule management
-- Slot availability & blocking
-- Appointment status tracking
-- Prescription upload & retrieval
-- Role-based access (Admin / Doctor / Patient)
-- Appointment filtering (date / doctor / status)
+### Key Features
+- Appointment booking
+- Doctor scheduling
+- Role-based access
+- Prescription tracking
+- Appointment lifecycle
 
 ### Architecture
 Controller → Service → Repository → Database
 
-### Slot Status
-- OPEN
-- BOOKED
-- BLOCKED
-- CANCELLED
-
-### Challenges Solved
-
-| Challenge | Solution |
-|--------|--------|
-| Duplicate bookings | Slot validation logic |
-| Data inconsistency | Transactional updates |
-| Workflow complexity | Enum state transitions |
-| Large data listing | Filtered query APIs |
+### Appointment Lifecycle
+`SCHEDULED → CONFIRMED → COMPLETED → CANCELLED`
 
 ---
 
-## System Knowledge
-
-- REST API standards
-- DTO design
-- Database relationships
-- Exception handling
-- Input validation
-- Pagination & filtering
-- Role-based workflows
-- Logging & debugging
-
----
-
-## Engineering Practices
-
-- Write readable code before clever code
-- Validate all external input
-- Keep business logic out of controllers
-- Prefer simple solutions over complex abstractions
-- Design APIs for future developers
-
----
-
-## GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemanthkumararigela&show_icons=true"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthkumararigela"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkumararigela&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemanth4072&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanth4072" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth4072&layout=compact"/>
 </p>
 
 ---
 
-## Currently Improving
+## 🧠 Engineering Practices
+✔ Clean Architecture  
+✔ Service Layer Business Logic  
+✔ Defensive Validation  
+✔ Production Debugging  
+✔ Maintainable APIs  
 
-- Advanced Spring Boot
+---
+
+## 📚 Currently Learning
+- Microservices design
+- System design
 - Query optimization
-- Microservice patterns
-- System design fundamentals
-- Clean architecture
+- Spring Security & JWT
 
 ---
 
-## Professional Mindset
-
-I consider software engineering a decision-making role, not a coding role.
-
-I bring:
-- feature ownership
-- debugging patience
-- structured thinking
-- clear communication
-- reliability under deadlines
-
----
-
-## Contact
-
+## 🤝 Let’s Connect
 📧 hemanthkumararigela99@gmail.com  
 💼 https://www.linkedin.com/in/hemanth-kumar-arigela/
 
 ---
 
-⭐ Always open to backend opportunities and meaningful engineering discussions.
+⭐ Always open to backend opportunities and collaboration.
