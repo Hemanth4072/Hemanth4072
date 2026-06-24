@@ -1,306 +1,232 @@
-
-
 <div align="center">
 
-<!-- Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arigela%20Hemanth%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Cloud%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Arigela%20Hemanth%20Kumar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Python%20%7C%20Django%20%7C%20Cloud&descAlignY=58&descSize=15" />
 
-<!-- Typing SVG -->
+<br/>
+
+<a href="https://www.linkedin.com/in/hemanth-kumar-arigela/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:hemanthkumararigela99@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 <a href="https://github.com/Hemanth4072">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7B5EA7&center=true&vCenter=true&multiline=false&width=700&lines=Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+%7C+Microservices+%7C+REST+APIs;Building+Scalable+Systems+%F0%9F%94%A5;AI+%26+Cloud+Explorer+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-6C63FF?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20To%20Work-Backend%20Developer%20Roles-2ea44f?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm a **Backend Developer** from Andhra Pradesh, India, with a background that started in Automobile Engineering and pivoted into software development — because I found that building systems is just as satisfying as engineering them.
+
+I work with **Java, Spring Boot, Python, and Django** to build scalable backend services and APIs. I've gone from understanding how engines work to understanding how distributed systems work — and honestly, the problem-solving mindset transfers perfectly.
+
+- 🔭 Currently building RESTful APIs and microservices at **Longbow Technologies**
+- 🌱 Deepening my skills in **AWS, Kubernetes, and Cloud-native architecture**
+- 💡 Interested in backend systems, API design, and developer tooling
+- ⚡ Fun fact: B.Tech in Automobile Engineering → Software Developer (yes, really)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 💼 Experience
+
+### 🔹 Software Developer Trainee / Python Developer Intern
+**Longbow Technologies Pvt Ltd** — *Hyderabad, India*
+
+- Building and maintaining RESTful APIs using **Java Spring Boot** and **Django REST Framework**
+- Developing and deploying containerized backend services using **Docker** and **Kubernetes**
+- Working with **MySQL** and **Oracle** databases to design efficient data models
+- Integrating asynchronous messaging using **RabbitMQ** for service-to-service communication
+- Collaborating in an Agile team with Git-based workflows and CI/CD practices
+
+---
+
+### 🔹 R&D Engineer
+**Alwise Automobiles** — *India*
+
+- Conducted research and development on automobile systems and components
+- Collaborated cross-functionally to evaluate product improvements and prototypes
+- Developed structured thinking and analytical problem-solving — skills now applied directly to software engineering
+
+---
+
+### 🔹 Service Advisor
+**KIA Motors** — *India*
+
+- Managed end-to-end service workflows for vehicle maintenance and repair
+- Handled customer communication, scheduling, and diagnostic reporting
+- Built strong habits around documentation, accuracy, and structured process management
+
+---
+
+### 🔹 Junior Lecturer
+**[Institution Name]** — *India*
+
+- Taught core engineering and technical subjects to undergraduate students
+- Developed curriculum materials and assessed student progress
+
+---
+
+## 🚀 Featured Projects
+
+### 🎟️ Ticketing Microservices Application
+A production-style microservices backend for an event ticketing system.
+- Built with **Java + Spring Boot**, decomposed into independent services (auth, ticketing, orders, payments)
+- Services communicate via **RabbitMQ** for asynchronous event-driven flows
+- Containerized with **Docker** and orchestrated using **Kubernetes**
+- Secured with **JWT-based authentication** and **Spring Security**
+
+`Java` `Spring Boot` `Microservices` `RabbitMQ` `Docker` `Kubernetes` `JWT`
+
+---
+
+### 🛒 eKart — E-Commerce Platform
+A full-featured e-commerce backend REST API.
+- Product catalog, cart, order management, and user authentication
+- Built with **Spring Boot + Hibernate** backed by **MySQL**
+- Role-based access control using **Spring Security**
+
+`Java` `Spring Boot` `Hibernate` `MySQL` `REST API` `Spring Security`
+
+---
+
+### 🔧 Spare Parts Management System
+Backend system for managing automotive spare parts inventory.
+- CRUD APIs for parts, suppliers, and inventory tracking
+- Built using **Django REST Framework** with **MySQL**
+- Straightforward, well-structured API design with proper validation
+
+`Python` `Django` `Django REST Framework` `MySQL`
+
+---
+
+### 🌤️ Weather App API
+A lightweight REST API that fetches and returns real-time weather data.
+- Consumes a third-party weather API and exposes a clean, unified endpoint
+- Built with **Django REST Framework**
+
+`Python` `Django REST Framework` `REST API` `Third-party Integration`
+
+---
+
+### 🎓 Student Management System API
+RESTful API for managing student records, courses, and grades.
+- Full CRUD support with proper validation and error handling
+- Built with **Spring Boot** and **MySQL**
+
+`Java` `Spring Boot` `MySQL` `REST API`
+
+---
+
+## 🏆 Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| Microsoft Azure Fundamentals (AZ-900) | Microsoft | 2025 |
+| Generative AI Mastermind | — | 2025 |
+| AI for Engineers | Outskill | 2025 |
+| Microsoft Azure AI Fundamentals | Microsoft | 2025 |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hemanth4072&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&count_private=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanth4072&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF"/>
+
 <br/>
 
-<!-- Social Badges -->
-<p>
-  <a href="https://www.linkedin.com/in/hemanth-kumar-arigela/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Hemanth4072" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:hemanthkumararigela99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<!-- Cool Animated Badges -->
-<p>
-  <img src="https://img.shields.io/badge/Focus-Backend_Engineering-7B5EA7?style=for-the-badge&logo=openjdk&logoColor=white" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Lives_In-India_🇮🇳-FF6B6B?style=for-the-badge" alt="Location"/>
-  <img src="https://img.shields.io/badge/Experience-2+_Years-00D9FF?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Experience"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Open_To-Opportunities-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work"/>
-  <img src="https://img.shields.io/badge/Loves-Clean_Code_💜-7B5EA7?style=for-the-badge" alt="Clean Code"/>
-</p>
-
-<!-- Animated Coding GIF -->
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding GIF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth4072&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&langs_count=8"/>
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> About Me
-
-```java
-@Developer
-public class HemanthKumar {
-
-    private final String name      = "Arigela Hemanth Kumar";
-    private final String role      = "Java Backend Developer";
-    private final String company   = "Longbow Technologies Limited";
-    private final String location  = "India 🇮🇳";
-    private final int    experience = 2; // years
-
-    private final String[] currentlyBuilding = {
-        "Scalable Healthcare & Education Platforms",
-        "RESTful Microservices with Spring Boot",
-        "AI-integrated Backend Systems"
-    };
-
-    private final String[] learning = {
-        "Microsoft Azure AI ☁️",
-        "Generative AI & LLM Integration 🤖",
-        "Cloud-native Architecture 🌐"
-    };
-
-    private final String funFact = "I went from fixing cars 🚗 to building APIs 💻!";
-
-    public String getMotivation() {
-        return "Clean code is not written for machines, it's written for humans. 🧠";
-    }
-}
-```
-
-<div align="center">
-
-| 🔭 Currently Working On | Healthcare & Education Backend Platform |
-|:---|:---|
-| 🌱 Currently Learning | Azure AI, Generative AI, Cloud Architecture |
-| 👯 Looking to Collaborate | Open Source Java/Spring Boot Projects |
-| 💬 Ask Me About | Java, Spring Boot, REST APIs, MySQL, Microservices |
-| ⚡ Fun Fact | Ex-Automotive Advisor turned Backend Engineer! |
-| 📫 Reach Me | hemanthkumararigela99@gmail.com |
-
-</div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> Tech Stack & Tools
-
-<div align="center">
-
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
-### 🚀 Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
-  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" alt="JDBC"/>
-</p>
-
-### ☁️ DevOps & Cloud
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
-</p>
-
-### 🛠️ Tools & Methodology
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/Agile-00A3E0?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Agile"/>
-</p>
-
-### 🤖 AI & Emerging Tech
-<p>
-  <img src="https://img.shields.io/badge/Generative_AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="Gen AI"/>
-  <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI"/>
-</p>
-
-</div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hemanth4072&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B5EA7&icon_color=7B5EA7&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanth4072&theme=tokyonight&hide_border=true&background=0D1117&ring=7B5EA7&fire=FF6B6B&currStreakLabel=7B5EA7" alt="GitHub Streak"/>
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth4072&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B5EA7&text_color=ffffff&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hemanth4072&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7B5EA7&line=7B5EA7&point=FF6B6B" alt="Activity Graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hemanth4072&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hemanth4072/Hemanth4072/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hemanth4072/Hemanth4072/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hemanth4072/Hemanth4072/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Hemanth4072/Hemanth4072/output/github-contribution-grid-snake.svg"/>
   </picture>
-
-> 💡 **Note:** To enable the snake animation, create a GitHub Actions workflow in your profile repository. See [platane/snk](https://github.com/Platane/snk) for setup instructions.
 </div>
+
+> To enable the snake animation, add a GitHub Actions workflow using [platane/snk](https://github.com/Platane/snk).
 
 ---
 
-## 💼 Featured Projects
+## 🌍 Community
 
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏥 Healthcare & Education Platform</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Private_Repository-🔒_Confidential-555555?style=for-the-badge&logo=github&logoColor=white"/>
-      </p>
-      <p align="center">
-        Scalable backend platform for <strong>Doctutorials Pvt Ltd</strong> supporting Admin, Doctor & Student workflows with OTP authentication, appointment scheduling, course management & SMS/Email notifications.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📅 Appointment Management System</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Private_Repository-🔒_Confidential-555555?style=for-the-badge&logo=github&logoColor=white"/>
-      </p>
-      <p align="center">
-        Role-based healthcare appointment system with OTP authentication, secure password reset, doctor schedule management, slot validation & multi-channel notifications.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
-        <img src="https://img.shields.io/badge/REST_APIs-FF6B6B?style=flat-square&logo=api&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
+**Volunteer Mentor — Team Everest NGO** *(Dec 2025 – Feb 2026)*
+Mentored college students on interview preparation and workplace communication through the **Job Readiness Skills Program**.
 
 ---
 
-## 🎓 Certifications & Achievements
+## 📬 Let's Connect
+
+I'm actively looking for **Backend Developer roles** — Java, Python, or full-stack opportunities where I can contribute and grow.
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🤖_AI_for_Engineers-Outskill-7B5EA7?style=for-the-badge" alt="AI for Engineers"/>
-      <br/><sub>Sep 2025</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🧠_Generative_AI_Mastermind-Certified-FF6B6B?style=for-the-badge" alt="Gen AI"/>
-      <br/><sub>Sep 2025</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/☁️_Microsoft_Azure_AI-Professional-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI"/>
-      <br/><sub>Jul 2025</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 💬 Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
-</div>
-
----
-
-## 🤝 Volunteering & Community
-
-<div align="center">
-
-**🌍 Volunteer Mentor – Team Everest NGO** *(Dec 2025 – Feb 2026)*
-
-Mentored college students in interview preparation & workplace communication through the **Job Readiness Skills Program**.
-
-<img src="https://img.shields.io/badge/Giving_Back-to_Community-7B5EA7?style=for-the-badge&logo=heart&logoColor=white" alt="Community"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 📬 Let's Connect & Build Something Amazing!
 
 <a href="https://www.linkedin.com/in/hemanth-kumar-arigela/">
-  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:hemanthkumararigela99@gmail.com">
-  <img src="https://img.shields.io/badge/Drop_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400" alt="Footer GIF"/>
-
-<!-- Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn"/>
 
 </div>
