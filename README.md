@@ -136,11 +136,7 @@ A full-featured e-commerce backend REST API.
 
 ---
 
-### 🔧 Spare Parts Management System
-Backend system for managing automotive spare parts inventory.
-- CRUD APIs for parts, suppliers, and inventory tracking
-- Built using **Django REST Framework** with **MySQL**
-- Straightforward, well-structured API design with proper validation
+
 
 `Python` `Django` `Django REST Framework` `MySQL`
 
