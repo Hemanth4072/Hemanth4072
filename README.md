@@ -103,24 +103,7 @@ I work with **Java, Spring Boot, Python, and Django** to build scalable backend 
 - Handled customer communication, scheduling, and diagnostic reporting
 - Built strong habits around documentation, accuracy, and structured process management
 
----
 
-### 🔹 Junior Lecturer
-**[Institution Name]** — *India*
-
-- Taught core engineering and technical subjects to undergraduate students
-- Developed curriculum materials and assessed student progress
-
----
-
-## 🚀 Featured Projects
-
-### 🎟️ Ticketing Microservices Application
-A production-style microservices backend for an event ticketing system.
-- Built with **Java + Spring Boot**, decomposed into independent services (auth, ticketing, orders, payments)
-- Services communicate via **RabbitMQ** for asynchronous event-driven flows
-- Containerized with **Docker** and orchestrated using **Kubernetes**
-- Secured with **JWT-based authentication** and **Spring Security**
 
 `Java` `Spring Boot` `Microservices` `RabbitMQ` `Docker` `Kubernetes` `JWT`
 
