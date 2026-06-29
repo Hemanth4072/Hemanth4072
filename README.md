@@ -80,23 +80,6 @@ I work with **Java, Spring Boot, Python, and Django** to build scalable backend 
 
 ---
 
-### 🔹 R&D Engineer
-**Alwise Automobiles** — *India*
-
-- Conducted research and development on automobile systems and components
-- Collaborated cross-functionally to evaluate product improvements and prototypes
-- Developed structured thinking and analytical problem-solving — skills now applied directly to software engineering
-
----
-
-### 🔹 Service Advisor
-**KIA Motors** — *India*
-
-- Managed end-to-end service workflows for vehicle maintenance and repair
-- Handled customer communication, scheduling, and diagnostic reporting
-- Built strong habits around documentation, accuracy, and structured process management
-
-
 
 `Java` `Spring Boot` `Microservices` `RabbitMQ` `Docker` `Kubernetes` `JWT`
 
