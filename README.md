@@ -139,7 +139,7 @@ A production platform serving doctors and medical aspirants preparing for exams.
   </picture>
 </div>
 
-> To enable the snake animation, add a GitHub Actions workflow using [platane/snk](https://github.com/Platane/snk).
+
 
 ---
 
