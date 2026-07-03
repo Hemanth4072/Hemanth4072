@@ -103,14 +103,7 @@ A production platform serving doctors and medical aspirants preparing for exams.
 
 ---
 
-## 🏆 Certifications
 
-| Certification | Issuer | Year |
-|---|---|---|
-| Microsoft Azure Fundamentals (AZ-900) | Microsoft | 2025 |
-| Generative AI Mastermind | — | 2025 |
-| AI for Engineers | Outskill | 2025 |
-| Microsoft Azure AI Fundamentals | Microsoft | 2025 |
 
 ---
 
