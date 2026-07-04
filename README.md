@@ -122,16 +122,6 @@ A production platform serving doctors and medical aspirants preparing for exams.
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hemanth4072/Hemanth4072/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hemanth4072/Hemanth4072/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Hemanth4072/Hemanth4072/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
-
 
 
 ---
