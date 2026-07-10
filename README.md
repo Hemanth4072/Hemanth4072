@@ -101,11 +101,6 @@ A production platform serving doctors and medical aspirants preparing for exams.
 
 `Java 21` `Spring Boot` `Spring Security` `JWT` `MySQL` `REST API` `Swagger` `Postman`
 
----
-
-
-
----
 
 
 
