@@ -121,13 +121,6 @@ A production platform serving doctors and medical aspirants preparing for exams.
 
 ---
 
-## 🌍 Community
-
-**Volunteer Mentor — Team Everest NGO**
-Mentored a college student through 10+ virtual guidance sessions, supporting interview preparation, communication improvement, and job readiness.
-
----
-
 ## 📬 Let's Connect
 
 I'm actively looking for **Java Backend Developer roles** — Spring Boot, Microservices, and Cloud opportunities where I can contribute and grow.
