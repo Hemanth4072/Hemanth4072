@@ -6,7 +6,7 @@ I enjoy designing secure REST APIs, solving backend challenges, and building rel
 
 Explore my repositories to find projects on **Java, Spring Boot, Microservices, System Design, REST APIs, Docker, Kubernetes, and Backend Development**.
 
-🌐 **Portfolio:** Coming Soon
+
 💼 **LinkedIn:** [www.linkedin.com/in/hemanth-kumar-arigela](http://www.linkedin.com/in/hemanth-kumar-arigela)
 📺 **GitHub:** https://github.com/Hemanth4072
 
@@ -128,4 +128,5 @@ I'm actively looking for opportunities as a **Java Backend Developer** where I c
 
 * 💼 LinkedIn: https://www.linkedin.com/in/hemanth-kumar-arigela
 * 💻 GitHub: https://github.com/Hemanth4072
-* 📧 Email: *Add your email here*
+* 📧 Email: hemanthkumararigela99@gmail.com
+  
