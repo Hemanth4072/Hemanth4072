@@ -1,137 +1,131 @@
-<div align="center">
+# Hi there 👋, Welcome to my GitHub!
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Arigela%20Hemanth%20Kumar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices%20%7C%20AWS&descAlignY=58&descSize=15" />
+I'm **Hemanth Kumar**, a Java Backend Developer with 2+ years of experience building scalable backend applications using **Java, Spring Boot, Microservices, and Cloud technologies**.
 
-<br/>  
+I enjoy designing secure REST APIs, solving backend challenges, and building reliable software for real-world applications. My work spans healthcare and fintech platforms, where I've contributed to production systems used by thousands of users.
 
-<a href="https://www.linkedin.com/in/hemanth-kumar-arigela/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:hemanthkumararigela99@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Hemanth4072">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+Explore my repositories to find projects on **Java, Spring Boot, Microservices, System Design, REST APIs, Docker, Kubernetes, and Backend Development**.
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20To%20Work-Java%20Backend%20Developer%20Roles-2ea44f?style=for-the-badge"/>
-
-</div>
+🌐 **Portfolio:** Coming Soon
+💼 **LinkedIn:** [www.linkedin.com/in/hemanth-kumar-arigela](http://www.linkedin.com/in/hemanth-kumar-arigela)
+📺 **GitHub:** https://github.com/Hemanth4072
 
 ---
 
 ## 👋 About Me
 
-I'm a **Java Backend Developer** with 2+ years of experience building scalable backend systems — currently working at **Longbow Technologies** in Hyderabad.
+I'm currently working as a **Java Backend Developer** at **Longbow Technologies**, where I build scalable backend services for healthcare and fintech applications.
 
-My background actually started in **Automobile Engineering** (yes, really), but I made the switch into software because I found I liked engineering systems just as much as engines. I work mainly with **Java, Spring Boot, and Microservices**, building secure REST APIs and deploying containerized apps with Docker and Kubernetes — and I've contributed to both **fintech** and **healthcare/education** platforms in production.
+Although my academic background is in **Automobile Engineering**, my passion for software engineering inspired me to transition into backend development. Today, I specialize in creating secure, high-performance APIs and microservices using modern Java technologies.
 
-- 🔭 Currently building microservices and REST APIs at **Longbow Technologies**
-- 💼 Working on healthcare (DocTutorials) and fintech (Financial Intelligence & Trading Analytics) platforms
-- 🌱 Deepening my skills in **AWS, Kafka, and Kubernetes**
-- 💡 Interested in backend system design, API security, and scalable architecture
-- ⚡ Fun fact: B.Tech in Automobile Engineering → Java Backend Developer
+* 🔭 Building scalable Microservices and REST APIs at Longbow Technologies
+* 💼 Working on Healthcare (DocTutorials) and FinTech platforms
+* 🌱 Currently learning AWS, Apache Kafka, Kubernetes, and System Design
+* 💡 Passionate about Backend Development, API Security, Distributed Systems, and Clean Architecture
+* ⚡ Fun fact: Switched from Automobile Engineering to Software Engineering and never looked back.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Backend & Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+* Java
+* Python
+* SQL
+
+### Backend
+
+* Spring Boot
+* Spring Security
+* Hibernate
+* Spring Data JPA
+* REST APIs
+* JWT Authentication
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+* MySQL
+* PostgreSQL
 
 ### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-### Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+* Docker
+* Kubernetes
+* AWS
+* Apache Kafka
+* Maven
+
+### Tools
+
+* Git
+* GitHub
+* IntelliJ IDEA
+* Postman
+* Swagger
 
 ---
 
 ## 💼 Experience
 
-### 🔹 Java Backend Developer
-**Longbow Technologies Pvt Ltd** — *Hyderabad, India* | Jan 2024 – Present
+### Java Backend Developer
 
-- Engineered microservices serving **50K+ users**, handling **100K+ monthly transactions** at **99.7% uptime** during 3× traffic spikes
-- Developed and secured **15+ REST APIs** using **Spring Security** and **JWT** to protect sensitive healthcare data
-- Built backend APIs and real-time workflow integrations supporting healthcare platform operations and transaction processing
-- Monitored and maintained backend services in **Kubernetes**-based environments, supporting application stability during peak usage
+**Longbow Technologies Pvt. Ltd.**
+📍 Hyderabad, India | **Jan 2024 – Present**
+
+* Developed secure REST APIs using Spring Boot and Spring Security.
+* Built and maintained scalable microservices for healthcare and fintech platforms.
+* Worked with MySQL and PostgreSQL to design efficient database solutions.
+* Collaborated with product managers, QA teams, and architects using Agile methodologies.
+* Supported production deployments, bug fixes, and performance improvements.
+* Worked with Docker and Kubernetes for containerized application deployment.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📈 Financial Intelligence & Trading Analytics Platform
-A backend platform for director intelligence, insider trading analytics, and company mapping.
-- Built RESTful APIs with DTO-based design, exception handling, and soft-delete workflows
-- Optimized database queries for improved performance
-- Worked closely with product managers, architects, and QA in Agile/Scrum sprints
 
-`Java 21` `Spring Boot` `Spring Data JPA` `PostgreSQL` `Hibernate` `AWS EC2` `Swagger`
+Backend platform for director intelligence, insider trading analytics, and company mapping.
 
----
+* Designed REST APIs using Spring Boot
+* Implemented DTO architecture and exception handling
+* Optimized database queries for better performance
+* Built secure and maintainable backend services
 
-### 🏥 DocTutorials — Healthcare & Medical Education Platform
-A production platform serving doctors and medical aspirants preparing for exams.
-- Stabilized backend assessment and workflow modules for **50K+ users**
-- Debugged critical production failures and resolved database issues to reduce downtime during peak exam traffic
-- Resolved API defects and collaborated cross-functionally on reliable, smooth releases
-
-`Java 21` `Spring Boot` `Spring Security` `JWT` `MySQL` `REST API` `Swagger` `Postman`
-
-
-
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth4072&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&langs_count=8"/>
-
-</div>
+**Tech Stack:** Java 21 • Spring Boot • Spring Data JPA • PostgreSQL • Hibernate • Swagger • AWS
 
 ---
 
+### 🏥 DocTutorials – Healthcare Platform
 
+A healthcare and medical education platform serving doctors and medical aspirants.
+
+* Developed backend modules for assessments and workflows
+* Fixed production issues and optimized database performance
+* Improved API reliability and application stability
+* Collaborated across development and QA teams for successful releases
+
+**Tech Stack:** Java 21 • Spring Boot • Spring Security • JWT • MySQL • REST APIs • Swagger • Postman
 
 ---
 
-## 📬 Let's Connect
+## 📊 GitHub Stats
 
-I'm actively looking for **Java Backend Developer roles** — Spring Boot, Microservices, and Cloud opportunities where I can contribute and grow.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemanth4072&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanth4072&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth4072&layout=compact&theme=tokyonight" />
+</p>
 
-<div align="center">
+---
 
-<a href="https://www.linkedin.com/in/hemanth-kumar-arigela/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:hemanthkumararigela99@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+## 📫 Let's Connect
 
-<br/><br/>
+I'm actively looking for opportunities as a **Java Backend Developer** where I can build scalable backend systems, work on cloud-native applications, and continue growing as a software engineer.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn"/>
-
-</div>
+* 💼 LinkedIn: https://www.linkedin.com/in/hemanth-kumar-arigela
+* 💻 GitHub: https://github.com/Hemanth4072
+* 📧 Email: *Add your email here*
