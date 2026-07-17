@@ -127,6 +127,6 @@ A healthcare and medical education platform serving doctors and medical aspirant
 I'm actively looking for opportunities as a **Java Backend Developer** where I can build scalable backend systems, work on cloud-native applications, and continue growing as a software engineer.
 
 * 💼 LinkedIn: https://www.linkedin.com/in/hemanth-kumar-arigela
-* 💻 GitHub: https://github.com/Hemanth4072
+
 * 📧 Email: hemanthkumararigela99@gmail.com
   
