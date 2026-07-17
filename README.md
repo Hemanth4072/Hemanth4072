@@ -8,7 +8,6 @@ Explore my repositories to find projects on **Java, Spring Boot, Microservices, 
 
 
 💼 **LinkedIn:** [www.linkedin.com/in/hemanth-kumar-arigela](http://www.linkedin.com/in/hemanth-kumar-arigela)
-📺 **GitHub:** https://github.com/Hemanth4072
 
 ---
 
