@@ -79,33 +79,7 @@ Although my academic background is in **Automobile Engineering**, my passion for
 * Supported production deployments, bug fixes, and performance improvements.
 * Worked with Docker and Kubernetes for containerized application deployment.
 
----
 
-## 🚀 Featured Projects
-
-### 📈 Financial Intelligence & Trading Analytics Platform
-
-Backend platform for director intelligence, insider trading analytics, and company mapping.
-
-* Designed REST APIs using Spring Boot
-* Implemented DTO architecture and exception handling
-* Optimized database queries for better performance
-* Built secure and maintainable backend services
-
-**Tech Stack:** Java 21 • Spring Boot • Spring Data JPA • PostgreSQL • Hibernate • Swagger • AWS
-
----
-
-### 🏥 DocTutorials – Healthcare Platform
-
-A healthcare and medical education platform serving doctors and medical aspirants.
-
-* Developed backend modules for assessments and workflows
-* Fixed production issues and optimized database performance
-* Improved API reliability and application stability
-* Collaborated across development and QA teams for successful releases
-
-**Tech Stack:** Java 21 • Spring Boot • Spring Security • JWT • MySQL • REST APIs • Swagger • Postman
 
 ---
 
