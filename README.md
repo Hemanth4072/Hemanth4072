@@ -83,15 +83,7 @@ Although my academic background is in **Automobile Engineering**, my passion for
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hemanth4072&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanth4072&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth4072&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
