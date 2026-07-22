@@ -55,15 +55,6 @@ Although my academic background is in **Automobile Engineering**, my passion for
 * Apache Kafka
 * Maven
 
-### Tools
-
-* Git
-* GitHub
-* IntelliJ IDEA
-* Postman
-* Swagger
-
----
 
 ## 💼 Experience
 
