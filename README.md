@@ -47,15 +47,6 @@ Although my academic background is in **Automobile Engineering**, my passion for
 * MySQL
 * PostgreSQL
 
-### DevOps & Cloud
-
-* Docker
-* Kubernetes
-* AWS
-* Apache Kafka
-* Maven
-
-
 ## 💼 Experience
 
 ### Java Backend Developer
