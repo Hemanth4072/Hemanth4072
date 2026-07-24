@@ -52,7 +52,7 @@ Although my academic background is in **Automobile Engineering**, my passion for
 ### Java Backend Developer
 
 **Longbow Technologies Pvt. Ltd.**
-📍 Hyderabad, India | **Jan 2024 – Present**
+ | **Jan 2024 – Present**
 
 * Developed secure REST APIs using Spring Boot and Spring Security.
 * Built and maintained scalable microservices for healthcare and fintech platforms.
