@@ -66,5 +66,5 @@ Although my academic background is in **Automobile Engineering**, my passion for
 
 * 💼 LinkedIn: https://www.linkedin.com/in/hemanth-kumar-arigela
 
-* 📧 Email: hemanthkumararigela99@gmail.com
+* 📧 Email: hemanthkumararigela99@gmail.com.
   
