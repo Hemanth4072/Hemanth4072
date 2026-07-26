@@ -58,7 +58,7 @@ Although my academic background is in **Automobile Engineering**, my passion for
 * Built and maintained scalable microservices for healthcare and fintech platforms.
 * Worked with MySQL and PostgreSQL to design efficient database solutions.
 * Collaborated with product managers, QA teams, and architects using Agile methodologies.
-* Supported production deployments, bug fixes, and performance improvements.
+ 
 * Worked with Docker and Kubernetes for containerized application deployment.
 
 
