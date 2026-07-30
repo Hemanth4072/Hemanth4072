@@ -39,7 +39,4 @@ Java Backend Developer focused on building scalable, secure, and reliable backen
 
 - 💼 LinkedIn: https://www.linkedin.com/in/hemanth-kumar-arigela
 - 📧 Email: hemanthkumararigela99@gmail.com
-
----
-⭐ Feel free to explore my repositories and connect with me.
   
