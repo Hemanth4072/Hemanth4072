@@ -34,9 +34,3 @@ Java Backend Developer focused on building scalable, secure, and reliable backen
 - Docker
 - Kubernetes
 - Maven
-
-## Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/hemanth-kumar-arigela
-- 📧 Email: hemanthkumararigela99@gmail.com
-  
