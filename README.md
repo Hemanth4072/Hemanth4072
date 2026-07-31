@@ -1,4 +1,4 @@
-# Hey! I'm @Hemanth4072 (Hemanth Kumar). 👋
+# Hey! I'm @Hemanth Kumar. 👋
 
 I'm a **Java Spring Boot Backend Developer** and **Software Engineer** from Andhra Pradesh, India. 🇮🇳
 
