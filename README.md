@@ -8,7 +8,6 @@ I'm normally working with **Java**, **Spring Boot**, **Python**, **FastAPI**, **
 
 I'm passionate about **Microservices**, **System Design**, **Cloud Technologies**, **Open Source**, and continuously learning new technologies. 🚀
 
-Some of my featured projects include **PlantPal AI**, **Ticketing Microservices**, **Student Management API**, and other backend-focused applications.
 
 I'm currently focused on becoming a world-class **Backend Engineer** while contributing to open-source projects and building software that solves real problems. ⚡️
 
