@@ -16,4 +16,4 @@ I'm currently focused on becoming a world-class **Backend Engineer** while contr
 * 🌐 Portfolio: *Coming Soon*
 * 💻 GitHub: https://github.com/Hemanth4072
 * 💼 LinkedIn: https://www.linkedin.com/in/hemanth-kumar-arigela
-* 📧 Email: *[your-email@example.com](mailto:your-email@example.com)*
+
