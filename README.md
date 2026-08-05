@@ -1,6 +1,6 @@
 # Hey! I'm @Hemanth Kumar. 👋
 
-I'm a **Java Spring Boot Backend Developer** and **Software Engineer** from Andhra Pradesh, India. 🇮🇳
+I'm a **Java Spring Boot Backend Developer** and **Software Engineer** from HYDERABAD, India. 🇮🇳
 
 I enjoy building scalable backend applications, REST APIs, and modern web solutions.
 
