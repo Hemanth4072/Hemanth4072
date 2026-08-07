@@ -1,4 +1,4 @@
-# Hey! I'm @Hemanth Kumar. 👋
+# Hey! I'm @Hemanth Kumar. 
 
 I'm a **Java Spring Boot Backend Developer** and **Software Engineer** from HYDERABAD, India. 🇮🇳
 
@@ -6,10 +6,10 @@ I enjoy building scalable backend applications, REST APIs, and modern web soluti
 
 I'm normally working with **Java**, **Spring Boot**, **Python**, **FastAPI**, **SQL**, **React**, and everything around backend development.
 
-I'm passionate about **Microservices**, **System Design**, **Cloud Technologies**, **Open Source**, and continuously learning new technologies. 🚀
+I'm passionate about **Microservices**, **System Design**, **Cloud Technologies**, **Open Source**, and continuously learning new technologies. 
 
 
-I'm currently focused on becoming a world-class **Backend Engineer** while contributing to open-source projects and building software that solves real problems. ⚡️
+I'm currently focused on becoming a world-class **Backend Engineer** while contributing to open-source projects and building software that solves real problems. 
 
 ## You can find me on:
 
