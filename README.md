@@ -14,6 +14,5 @@ I'm currently focused on becoming a world-class **Backend Engineer** while contr
 ## You can find me on:
 
 
-* 💻 GitHub: https://github.com/Hemanth4072
 * 💼 LinkedIn: https://www.linkedin.com/in/hemanth-kumar-arigela
 
