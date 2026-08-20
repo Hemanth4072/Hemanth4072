@@ -225,7 +225,7 @@ mission: >
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hemanth-kumar-arigela&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=@hemanth4072&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" height="180"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth-kumar-arigela&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" height="180"/>
 
