@@ -221,19 +221,7 @@ mission: >
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=@hemanth4072&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth-kumar-arigela&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hemanth-kumar-arigela&theme=redical&bg_color=0D1117&color=FFD700&line=FF0000&point=FFFFFF&hide_border=true" width="95%"/>
-
-</div>
 
 ---
 
