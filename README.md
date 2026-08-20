@@ -97,27 +97,10 @@ current_arc: "Mastering System Design & Distributed Systems"
 <td width="50%">
 <div align="center">
 
-### 🌿 PlantPal AI
-**AI-powered plant health monitoring platform**
 
-<img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi&logoColor=009688"/>
-<img src="https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/Ollama-black?style=flat-square&logo=ollama&logoColor=white"/>
 
-*Care recommendations powered by ML + local LLMs*
 
-</div>
-</td>
-<td width="50%">
-<div align="center">
 
-### ⚙️ Java Spring Boot Projects
-**Backend services & REST APIs**
-
-<img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-black?style=flat-square&logo=springboot&logoColor=6DB33F"/>
-<img src="https://img.shields.io/badge/Microservices-black?style=flat-square&logo=kubernetes&logoColor=326CE5"/>
 
 *Clean architecture, scalable design*
 
