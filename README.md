@@ -207,14 +207,14 @@ mission: >
 <div align="center">
 
 ```text
-🟡 Advanced Spring Boot
-🟡 Microservices Architecture
-🟡 System Design
-🟡 Distributed Systems
-🟡 Database Optimization
-🟡 Cloud Technologies
-🟡 Clean Code & Design Patterns
-🟡 Scalable Backend Architecture
+🟡 Advanced Spring Boot.
+🟡 Microservices Architecture.
+🟡 System Design.
+🟡 Distributed Systems.
+🟡 Database Optimization.
+🟡 Cloud Technologies.
+🟡 Clean Code & Design Patterns.
+🟡 Scalable Backend Architecture.
 ```
 
 </div>
